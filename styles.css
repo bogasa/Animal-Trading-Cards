@@ -1,0 +1,45 @@
+body {
+  border: 5px;
+}
+
+.details {
+  border: 1px solid;
+  margin: 10px;
+  width: 300px;
+  border-color: silver;
+}
+
+.text {
+  margin: 10px;
+}
+
+small {
+  font-size: 5px;
+  margin-left: 10px;
+}
+
+.image {
+  width: 300px;
+  margin: 10px;
+}
+
+.container {
+  border: 1px solid;
+  width: 325px;
+  box-shadow: 5px 5px 3px silver;
+  border-color: silver;
+  background: url(ocean.jpg);
+
+}
+
+h2 {
+  margin: 10px;
+  margin-top: 20px;
+}
+
+.imgClown {
+  display: block;
+  width: 30px;
+  height: auto;
+  margin-left: 240px;
+}
